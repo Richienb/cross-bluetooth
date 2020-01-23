@@ -1,41 +1,26 @@
-# The module [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/the-module/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/the-module)
+# Cross Bluetooth [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/cross-bluetooth/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/cross-bluetooth)
 
-My awesome module.
+Bluetooth cross-platform.
 
-[![NPM Badge](https://nodei.co/npm/the-module.png)](https://npmjs.com/package/the-module)
+[![NPM Badge](https://nodei.co/npm/cross-bluetooth.png)](https://npmjs.com/package/cross-bluetooth)
 
 ## Install
 
 ```sh
-npm install the-module
+npm install cross-bluetooth
 ```
 
 ## Usage
 
 ```js
-const theModule = require("the-module");
+const bluetooth = require("cross-bluetooth");
 
-theModule("unicorns");
-//=> 'unicorns & rainbows'
+bluetooth;
+//=> Bluetooth {}
 ```
 
 ## API
 
-### theModule(input, options?)
+### bluetooth
 
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-Type: `object`
-
-##### postfix
-
-Type: `string`\
-Default: `rainbows`
-
-Lorem ipsum.
+The cross-platform Bluetooth object.
