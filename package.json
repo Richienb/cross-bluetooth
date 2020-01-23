@@ -1,6 +1,6 @@
 {
 	"name": "cross-bluetooth",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Bluetooth cross-platform.",
 	"repository": "https://github.com/Richienb/cross-bluetooth.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
